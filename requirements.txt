@@ -1,0 +1,7 @@
+fastmcp
+langchain
+langchain-google-genai
+python-dotenv
+mcp[cli]
+google
+google-genai
