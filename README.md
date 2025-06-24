@@ -19,5 +19,3 @@ python server.py
 
 ### 2. Run the client
 python llm.py
-
-
