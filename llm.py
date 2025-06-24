@@ -11,7 +11,7 @@ mcp_client = Client(transport)
 st.title("Smart Registration Chat")
 
 # User prompt input
-user_input = st.text_input("Ask me something (e.g. 'Register Harsh with harsh@gmail.com')")
+user_input = st.text_input("Ask me something (e.g. 'Register Sachin with sachin@gmail.com')")
 
 if st.button("Submit") and user_input:
     async def process_input():
